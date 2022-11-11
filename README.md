@@ -1,2 +1,0 @@
-# MyopiaClusters
-Unsupervised machine learning
